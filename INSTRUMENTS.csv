@@ -1,0 +1,6 @@
+instrument,table,offset_arcmin,exposure_column
+nustar,numaster,10,a_exposure_a
+chandra,chanmaster,21,a_exposure
+suzaku,suzamaster,10,a_exposure
+swift,swiftmastr,25,a_xrt_exposure
+xmm,xmmmaster,15,a_duration
